@@ -17,4 +17,8 @@ class OpenMic
     @perfomers << user
   end
 
+  def repeated_jokes?
+    
+  end
+
 end
